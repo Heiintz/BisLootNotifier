@@ -1,0 +1,18 @@
+## Interface: 100002
+## Title: BiS Loot Notifier
+## Notes: Notify BiS objects when looted.
+## Author: Heiintz
+## Version: 1.0
+## SavedVariables: BisLootNotifierSV
+
+Lib\UpdateSpecIcons.lua
+Lib\ClientLanguage.lua
+Lib\DungeonOrRaidChecker.lua
+SimulateLoot.lua
+Core.lua
+Lib\Tooltip.lua
+Lib\UpdateBisFrame.lua
+Lib\SimulatedPlayers.lua
+lib\SpecIconsList.lua
+Translations.lua
+BisList.lua
